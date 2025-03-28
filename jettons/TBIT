@@ -1,0 +1,9 @@
+name: Techno Bit 
+symbol: TBIT
+description: "Techno Bit (TBIT) — a low-fee cryptocurrency for decentralized mini-apps in Telegram"
+address: EQAk3nB8R9F97rMTi_QuPJnuxjjIdYFgxvePDp2QlU6gVZku
+image: "https://retrobit.one/coinImg.png"
+decimals: 9
+telegram mini app:
+ - "@HexMine_bot"
+ - "@Retro_Bit_bot"
